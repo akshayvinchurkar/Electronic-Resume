@@ -1,0 +1,24 @@
+{
+  "name": "addressbook",
+  "description": "just a simple addressbook",
+  "main": "index.js",
+  "authors": [
+    "akshay vinchurkar"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "electron-app",
+    "electron"
+  ],
+  "homepage": "https://github.com/sindresorhus/electron-boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

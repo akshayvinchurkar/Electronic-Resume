@@ -1,0 +1,24 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.sidebar{
+		height: 100vh;
+		background: #333;
+		text-align: center;
+}
+.content{
+	background: darkgrey;
+	height: 100vh;
+}
+.title{
+	background: #c70b52;
+	padding: 10px;
+	color:white;
+	border-radius:10px;
+}
+.well{
+	margin-top: 20px;
+}
